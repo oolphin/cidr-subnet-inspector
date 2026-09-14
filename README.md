@@ -117,6 +117,11 @@ personnels et ne peut pas être automatisée depuis ce dépôt.
 Alternative pour du test interne sans signature : Firefox Developer Edition
 ou Nightly avec `xpinstall.signatures.required = false` dans `about:config`.
 
+# Autrement, la version signée par Firefox est disponible dans l'Add-ons Manager de FIREFOX
+# [CIDR Subnet Inspector](https://addons.mozilla.org/en-US/firefox/addon/cidr-subnet-inspector/)
+
+---
+
 ## 👨‍💻 Auteur
 
 **Guy SOW**
